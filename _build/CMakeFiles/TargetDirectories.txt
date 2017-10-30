@@ -1,9 +1,0 @@
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/install/local.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/install/strip.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/install.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/list_install_components.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/package.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/package_source.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/rebuild_cache.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/edit_cache.dir
-/Users/uliana_koshkina/projects/lab09/_build/CMakeFiles/print.dir
